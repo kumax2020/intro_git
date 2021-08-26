@@ -4,3 +4,4 @@ gid add
 gid commmit
 git rm
 git styay
+fdafadfafaf
