@@ -3,3 +3,4 @@ GITの練習
 gid add
 gid commmit
 git rm
+git styay
