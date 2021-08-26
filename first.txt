@@ -1,2 +1,4 @@
 GITの練習
 変更しました
+gid add
+gid commmit
